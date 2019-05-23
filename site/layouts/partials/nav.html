@@ -1,19 +1,41 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<nav id="nav-master" class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey fixed w-100 z-max">
 
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
+	<a href="/" class="pa3 db mr4 h-100 w5 flex-none">
+		<img src="/img/logo.svg" alt="Reveal Health logo" class="br0 db mb0 w-100"/>
 	</a>
 
 	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
-
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
-
+	<div class="nav-p">
+		<ul class="flex b grey-3">
+	        {{ $currentPage := . }}
+	        {{ range .Site.Menus.main }}
+	            <li>
+		            <a href="{{ .URL }}" class="b mr4 no-underline {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+		                {{ .Pre }}
+		                <span>{{ .Name }}</span>
+		            </a>
+		        </li>
+	        {{ end }}
+		</ul>
+	</div>
+	<!-- Responsive Nav -->
+    <div class="nav-r">
+        <a href="#" class="ph3 black no-underline f2" onclick="openSidenav();">&#9776;</a>
+    </div>
 </nav>
+
+
+<script>
+function openSidenav() {
+  document.getElementById("mySidenav").style.width = "300px";
+  document.getElementById("nav-master").classList.toggle("z-max");
+  document.getElementById("mySidenav").classList.toggle("z-max");
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("mySidenav").classList.toggle("z-max");
+  setTimeout(function(){document.getElementById("nav-master").classList.toggle("z-max")}, 1000);;
+}
+</script>

@@ -1,3 +1,34 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+
+[menu]
+	[[menu.main]]
+	identifier = "approach"
+	name = "Our Approach"
+	url = "/approach"
+	weight = 1
+
+	[[menu.main]]
+	identifier = "services"
+	name = "Services"
+	url = "/services"
+	weight = 2
+
+	[[menu.main]]
+	identifier = "research"
+	name = "Research"
+	url = "/research"
+	weight = 3
+
+	[[menu.main]]
+	identifier = "team"
+	name = "Team"
+	url = "/team"
+	weight = 4
+
+	[[menu.main]]
+	identifier = "contact"
+	name = "Contact"
+	url = "/contact"
+	weight = 5
