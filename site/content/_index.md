@@ -1,6 +1,5 @@
 ---
 title: "Discovering the way to thriving health"
-image: /img/hero-logoish.png
 subtitle: At Reveal Health we use the latest technology, testing, and education to help organizations improve wellbeing and address the root cause of disease.
 intro:
     image: img/fpo.png
