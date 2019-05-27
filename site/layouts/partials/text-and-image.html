@@ -1,21 +1,21 @@
-<div class="bg-grey-1 pv4">
+<div class="pv4">
 	<div class="ph3 mw7 center">
 
 		<div class="flex-l mhn2-l">
 			<div class="w-60-l ph2-l">
-				<h4 class="f4 b lh-title mb2">{{.heading}}</h4>
+				<h4 class="f4 lh-title mb2">{{.heading}}</h4>
 
-				<p>{{.text}}</p>
+				<p class="f4 lh-title mb4">{{.text}}</p>
+				{{ if .btnlink}}
+				<div class="tc">
+					<a href="{{ .btnlink }}" class="btn raise">{{ .btntext }}</a>
+				</div>
+				{{ end }}
 			</div>
 
 			<div class="w-40-l ph2-l">
 				<img src="{{.image}}" alt="" class="mb3">
 			</div>
 		</div>
-		{{ if .buttonLink }}
-		<div class="tc">
-			<a href="{{.buttonLink}}" class="btn raise">{{.buttonText}}</a>
-		</div>
-		{{ end }}
 	</div>
 </div>
