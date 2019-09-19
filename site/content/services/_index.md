@@ -2,8 +2,6 @@
 title: Services
 heading: Making quality care accessible
 subtitle: We offer a variety of services to empower organizations and individuals.
-type: products
-image: 
 intro:
   blurbs:
     - heading: Direct Healthcare Services

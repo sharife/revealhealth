@@ -25,15 +25,6 @@ Stewart is on advisory boards for Institute Health and Productivity Measurement 
 
 <br />
 
-# **Sharif Ezzat**  
-
-<img src="/img/fpo.png" style="float:right; padding:16px"> Sharif Ezzat is an award-winning science communicator and creative professional whose work has been featured by art and design organizations around the world. He is passionate about using design as a force for good and creating systems that contribute to collective knowledge. 
-
-As a member of Genentech’s digital communications team he led the redesign of the company’s intranet, which was recognized by the Nielsen Norman Group for excellence in design and usability. He also led the development of Making Medicine, an interactive documentary about the process of drug discovery, and the animated YouTube series Big Ideas. 
-
-In 2016 he helped launch OpenTB, a citizen science initiative using the EteRNA puzzle game to crowdsource the design of a new diagnostic tool for tuberculosis. Sharif has served as an associate judge for the Webby Awards since 2014, and applied his expertise in branding, technology, and digital storytelling for clients such as UCSF, Stanford School of Medicine, the Buck Institute, the Innovative Genomics Institute, and many Bay Area biotech companies.
-
-<br />
 
 ## **CONSULTANTS** 
 ***
