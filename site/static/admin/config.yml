@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
 
+display_url: https://revealhealth.netlify.com
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
@@ -17,6 +18,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
+    editor:
+      preview: false
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
