@@ -26,10 +26,10 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Header Image, name: image, widget: image}
-          - {label: "Intro", name: intro, widget: object, fields: [{label: "Text", name: "text", widget: "text"},{label: "Image", name: "image", widget: "image"},{label: "Button Label", name: "btntext", widget: "string"},{label: "Button Link", name: "btnlink", widget: "string"}]}
-          - {label: "Approach", name: "approach", widget: "object", fields: [{label: "Heading", name: "heading", widget: string},{label: "Items", name: "items", widget: "list", fields: [{label: "Image", name: "image", widget: "image"},{label: "Text", name: "text", widget: text}]}]}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
+          - {label: Header Image, name: image, widget: image, required: false}
+          - {label: "Intro", name: intro, widget: object, fields: [{label: "Text", name: "text", widget: "text"},{label: "Image", name: "image", widget: "image", required: false},{label: "Button Label", name: "btntext", widget: "string", required: false},{label: "Button Link", name: "btnlink", widget: "string", required: false}]}
+          - {label: "Approach", name: "approach", widget: "object", fields: [{label: "Heading", name: "heading", widget: string, required: false},{label: "Items", name: "items", widget: "list", fields: [{label: "Image", name: "image", widget: "image", required: false},{label: "Text", name: "text", widget: text, required: false}]}]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
@@ -52,7 +52,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "services"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Header Image, name: image, widget: image, required: false}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Description, name: description, widget: string, required: false}
