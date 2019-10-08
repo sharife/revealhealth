@@ -9,7 +9,7 @@ intro:
   btntext: Our approach
   image: img/fpo.png
   text: >
-    We provide employers access to our clinical network, wellbeing programs, and digital resources to optimize employee health using validated assessments and tools. Our programs include advanced screening for conditions that are often misdiagnosed or overlooked, such as metabolic and autoimmune diseases, creating truly personalized care programs.
+    We provide employers access to our clinical network, wellbeing programs, and digital resources to optimize employee health using validated assessments and tools. Our programs include advanced screening for conditions that are often misdiagnosed or overlooked, such as metabolic and autoimmune diseases.
 approach:
   heading: What we offer
   items:
