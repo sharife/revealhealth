@@ -3,26 +3,18 @@ title: Services
 heading: Making quality care accessible
 subtitle: We offer a variety of services to empower organizations and individuals.
 intro:
-  blurbs:
-    - heading: Direct Healthcare Services
-      text: >
-        We provide advanced evidence-based tools, education, and personalized treatment plans that work with your team and program goals.  <hr />
-          Validated assessment tools  <hr />
-          Validated clinical therapeutic tools  <hr />
-          Certified health coaching  <hr />
-          Lab testing for genomics, microbiome, and other specialized tests  <hr />
-          Personalized health tracking and plans
-    - heading: Consulting Services
+  items:
+    - heading: Organizational Consulting
       text: >
         We can help your organization develop a strategic plan to support Integrative Health solutions for your worksite including:  <hr />
-          Environmental assessments  <hr />
-          High claimants with specialty drugs  <hr />
-          Payer strategies for Functional Medicine and Integrative Health  <hr />
-          Developing an outcomes-based program  <hr />
-          Developing onsite and near-site clinics
-    - heading: Workshop Series
+        Environmental assessments  <hr />
+        High claimants with specialty drugs  <hr />
+        Payer strategies for Functional Medicine and Integrative Health  <hr />
+        Developing an outcomes-based program  <hr />
+        Developing onsite and near-site clinics
+    - heading: Educational Programs
       text: >
-        We offer free workshops for employees and managers to understand new research in medicine and nutrition:  <hr />
+        We offer workshops for employees and managers to understand new research in medicine and nutrition:  <hr />
         Nutrition and Functional Foods  <hr />
         Probiotics  <hr />
         Energy and Vitality  <hr />
@@ -63,9 +55,8 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to make great health a part of your life. Choose one of our
+    monthly subscription plans below. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:

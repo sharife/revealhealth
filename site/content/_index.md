@@ -1,27 +1,23 @@
 ---
-title: Discovering the way to thriving health
+title: Revealing the way to personalized health
 subtitle: >-
   At Reveal Health we use the latest technology, testing, and education to help
-  organizations improve wellbeing and address the root cause of disease.
+  organizations enhance employee health and address the root cause of disease.
 image: /img/hero-logoish.png
 intro:
   btnlink: /approach
   btntext: Our approach
   image: img/fpo.png
   text: >
-    We offer advanced screening for conditions that are often misdiagnosed or
-    overlooked, such as  metabolic and autoimmune diseases, and develop truly
-    personalized care programs.
+    We provide employers access to our clinical network, wellbeing programs, and digital resources to optimize employee health using validated assessments and tools. Our programs include advanced screening for conditions that are often misdiagnosed or overlooked, such as metabolic and autoimmune diseases, creating truly personalized care programs.
 approach:
-  heading: How it works
+  heading: What we offer
   items:
     - image: /img/fpo_sq.png
-      text: Complete an assessment using our validated set of tools.
+      text: Educational Programs
     - image: /img/fpo_sq.png
-      text: Review the assessment with a certified health professional.
+      text: Organizational Consulting
     - image: /img/fpo_sq.png
-      text: >-
-        Develop a personalized treatment plan with resources to help you
-        succeed.
+      text: Professional Staffing
 ---
 

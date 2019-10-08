@@ -4,8 +4,8 @@
 		<p class="mb4 mw6">{{.description}}</p>
 
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
-			{{ range .blurbs }}
-				<div class="ph2-ns w-50-ns mb4">
+			{{ range .items }}
+				<div class="ph2-ns w-80-ns mb4">
 					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
 					<h4 class="f3 b lh-title mb2">{{.heading}}</h4>
 					<p class="cms">{{ .text | markdownify }}</p>
