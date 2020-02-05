@@ -4,7 +4,7 @@ subtitle: ' Reveal Health: We are a  Functional medicine and Integrative Health 
 image: /img/hero-logoish.png
 intro:
   btnlink: /approach
-  btntext: Reveal Health Toolbox
+  btntext: Learn More
   image: img/fpo.png
   text: >-
     We lead your employees toward optimal physical and emotional health and away
@@ -25,26 +25,6 @@ approach:
         physicals as well as group visits for employees.
 
 
-        Step One
-
-        Validated assessment tools for overall health as well as nutritional
-        assessments
-
-
-        Step Two
-
-        Specific lab testing with an eye toward early markers indicative of
-        disease processes with the opportunity for genomic testing
-
-
-        Step Three
-
-        Health tracking for Lifestyle Inputs to follow changes in subjective and
-        objective function
-
-        Using technology for sleep, fitness and nutrition we reveal trends in
-        health. Telemedicine support from our team of practitioners provide the
-        guidance to making lasting changes in lifestyle and improve biomarkers.
 
 
 
@@ -116,7 +96,7 @@ approach:
         Integrative health who offer individual as well as group sessions for
         your employees.
 
-    - text: >+
+    - text: >
         Reveal Health Clients
 
 
