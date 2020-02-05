@@ -47,16 +47,15 @@ approach:
 
         Consulting
 
-        We guide healthcare systems, providers and benefit consultants in the
-        understanding and implementation of evidence based Functional medicine
-        and Integrative Health Solutions.
+
+        For healthcare systems, providers and benefit consultants an
+        introduction and implementation of evidence based Integrative Health
+        Solutions
 
 
         Professional Network
 
-        We have a nationwide network of Functional Medicine Practitioners,
-        Health Coaches and Certified Nutritionists trained in Functional and
-        Integrative health who offer individual as well as group sessions for
-        your employees.
+        Have access to our network of certified practitioners to offer
+        individual as well as group sessions for your employees
 ---
 
