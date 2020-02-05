@@ -27,15 +27,6 @@ approach:
 
 
 
-
-        Typical Employee Health Vs Reveal Health Map
-
-        Population Heath                  Employee Centric Health
-
-        Physical Health                     Whole Person Heath
-
-        Program ROI                          Health Outcomes for long term
-
     - image: /img/fpo_sq.png
       text: >+
         Reveal Health Academy
@@ -49,18 +40,8 @@ approach:
 
 
 
-
-        Typical Employee Wellness  Vs  Reveal Health Academy
-
-        Behavior Change                         Healthy Lifestyle for long term
-        wellness
-
-        Health Risk Assessment             Personalized Reveal Health Map
-
-        Wellness Portal                            Wellbeing Platform
-
     - image: /img/fpo_sq.png
-      text: >+
+      text: >
         Reveal Health Navigators
 
 
