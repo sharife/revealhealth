@@ -37,17 +37,18 @@ values:
       health. Telemedicine support from our team of practitioners provide the
       guidance to making lasting changes in lifestyle and improve biomarkers.
 
-  - heading: Cardiovascular health
+  - heading: Reveal Health Academy
     imageUrl: /img/fpo_sq.png
-    text: >
-      One of the most far-reaching health issues affecting more people in the
-      United States than any other disease and is the leading cause of
-      mortality. Cardiovascular disease is reversible and manageable when it is
-      considered through the lens of systems biology thinking. <br /><br
-      />Hypertension, obesity, diabetes, smoking are all risk factors for heart
-      disease and all share the common thread of inflammation. Addressing the
-      underlying inflammatory status removes the drive for an inflammatory
-      cascade thus preventing cardiovascular disease.
+    text: |
+      Stress and Resilience
+      Genomics
+      Nutrition
+      Autoimmune
+      Energy and Vitality
+      Brain Health
+      Diabetes and prediabetes
+      Weight management
+      Executive coaching
   - heading: Metabolic care
     imageUrl: /img/fpo_sq.png
     text: >
