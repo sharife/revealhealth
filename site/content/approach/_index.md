@@ -12,30 +12,30 @@ values:
       balance, we look at all the factors of our lifestyle which lead to
       heightened vitality. <br /><br />Our wellness programs focus on brain
       health, sleep, gut health, and stress management, with options to
-      customize a program for your organization. We use validated assessment
-      tools and evidence-based education.
+      customize a program for your organization.
 
 
-      Step One
+      Step One:
 
       Validated assessment tools for overall health as well as nutritional
-      assessments
+      assessment, emotional health and resilience  
 
 
-      Step Two
+      Step Two:
 
       Specific lab testing with an eye toward early markers indicative of
       disease processes with the opportunity for genomic testing
 
 
-      Step Three
+      Step Three:
 
-      Health tracking for Lifestyle Inputs to follow changes in subjective and
+      Health tracking for lifestyle inputs to follow changes in subjective and
       objective function
 
-      Using technology for sleep, fitness and nutrition we reveal trends in
-      health. Telemedicine support from our team of practitioners provide the
-      guidance to making lasting changes in lifestyle and improve biomarkers.
+      Technology for sleep, fitness and nutrition we reveal trends in health.
+
+      Telemedicine support from our team of practitioners provide the guidance
+      to making lasting changes in lifestyle and improve biomarkers.
 
   - heading: Reveal Health Academy
     imageUrl: /img/fpo_sq.png
