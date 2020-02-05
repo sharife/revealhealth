@@ -37,7 +37,7 @@ values:
       Telemedicine support from our team of practitioners provide the guidance
       to making lasting changes in lifestyle and improve biomarkers.
 
-  - heading: Reveal Health Academy
+  - heading: Reveal Health Academy<br/br>br/>
     imageUrl: /img/fpo_sq.png
     text: |
       Stress and Resilience
