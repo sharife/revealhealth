@@ -46,26 +46,8 @@ approach:
         resource of information and guidance in the resolution of symptoms
         toward prevention and care.
 
-        Programs Include:
 
 
-        Stress and Resilience
-
-        Genomics
-
-        Nutrition
-
-        Autoimmune
-
-        Energy and Vitality
-
-        Brain Health
-
-        Diabetes and prediabetes
-
-        Weight management
-
-        Executive coaching
 
 
         Typical Employee Wellness  Vs  Reveal Health Academy
@@ -95,55 +77,5 @@ approach:
         Health Coaches and Certified Nutritionists trained in Functional and
         Integrative health who offer individual as well as group sessions for
         your employees.
-
-    - text: >
-        Reveal Health Clients
-
-
-        Self Insured Employers
-
-
-        Turnkey programming
-
-        Cost effective
-
-        Collaborate with existing third party vendors
-
-        Integrate existing employer health resources
-
-        Increase employee wellbeing
-
-        Decrease health claim
-
-
-        Insurance/Benefit Consultants
-
-
-        Customized service for variety of client budgets
-
-        Consultative Support
-
-        Data Integration for TPA and Carrier
-
-        Private label solution
-
-        Outcome Measurement
-
-
-        Healthcare Systems
-
-        Portfolio of solutions and consulting services to support development
-        and implementation of Functional medicine and Integrated Health
-
-
-        Consulting services
-
-        Training
-
-        Licensing assessment tools and software
-
-        Recruitment
-
-        Demonstration programs
 ---
 
