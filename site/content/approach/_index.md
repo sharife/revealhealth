@@ -41,13 +41,21 @@ values:
     imageUrl: /img/fpo_sq.png
     text: |
       Stress and Resilience
+
       Genomics
+
       Nutrition
+
       Autoimmune
+
       Energy and Vitality
+
       Brain Health
+
       Diabetes and prediabetes
+
       Weight management
+
       Executive coaching
   - heading: Metabolic care
     imageUrl: /img/fpo_sq.png
