@@ -32,14 +32,17 @@ values:
       Health tracking for lifestyle inputs to follow changes in subjective and
       objective function
 
-      Technology for sleep, fitness and nutrition we reveal trends in health.
+      Using technology for sleep, fitness and nutrition we reveal trends in
+      health.
 
-      Telemedicine support from our team of practitioners provide the guidance
-      to making lasting changes in lifestyle and improve biomarkers.
+      With telemedicine support from our team of practitioners we provide the
+      guidance to making lasting changes in lifestyle and improve biomarkers.
 
-  - heading: Reveal Health Academy<br/<br/>
+  - heading: Reveal Health Academy
     imageUrl: /img/fpo_sq.png
     text: |
+      Focused Workshops on:
+
       Stress and Resilience
 
       Genomics
@@ -59,7 +62,7 @@ values:
       Executive coaching
   - heading: Reveal Heath Navigators
     imageUrl: /img/hero-logoish.png
-    text: >-
+    text: >
       Consulting
 
 
@@ -72,6 +75,8 @@ values:
 
 
       We provide exclusive access to the best certified group of health care
-      providers.
+      providers. Physicians, health coaches and RD certified in Functional
+      medicine provide care, along with massage, acupuncture and Meditation for
+      mind body for a full experience.
 ---
 
