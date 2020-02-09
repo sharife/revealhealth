@@ -57,5 +57,21 @@ values:
       Weight management
 
       Executive coaching
+  - heading: Reveal Heath Navigators
+    imageUrl: /img/hero-logoish.png
+    text: >-
+      Consulting<br/br>br/>
+
+
+      We help healthcare systems, providers and benefit consultants understand
+      and implement evidence based Functional Medicine and Integrated Health
+      Solutions.
+
+
+      Professional Network<br/br>br/>
+
+
+      We provide exclusive access to the best certified group of health care
+      providers.
 ---
 
