@@ -60,7 +60,7 @@ values:
   - heading: Reveal Heath Navigators
     imageUrl: /img/hero-logoish.png
     text: >-
-      Consulting<br/br>br/>
+      Consulting
 
 
       We help healthcare systems, providers and benefit consultants understand
@@ -68,7 +68,7 @@ values:
       Solutions.
 
 
-      Professional Network<br/br>br/>
+      Professional Network
 
 
       We provide exclusive access to the best certified group of health care
