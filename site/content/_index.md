@@ -1,6 +1,6 @@
 ---
-title: The healthcare your employees are seeking
-subtitle: ' Reveal Health: We are a  Functional medicine and Integrative Health Organization that provides evidence based holistic care solutions to employers, healthcare systems and benefit consultants'
+title: Care at its best. The healthcare you want for your employees
+subtitle: '  We are a cutting edge functional medicine and integrative health organization that delivers evidence based holistic care solutions to employers, healthcare systems and benefit consultants'
 image: /img/hero-logoish.png
 intro:
   btnlink: /approach
