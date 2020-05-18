@@ -11,53 +11,32 @@ intro:
     from disease. Employees are in search of a personalized approach of health
     that addresses the as whole people. Reveal Health offers a next generation
     approach to corporate wellness. Our evidence based approach, which includes
-    the latest science in Functional Medicine supports healthy lifestyles that
+    the latest science in Functional Medicine, supports healthy lifestyles that
     keep employees and company bottom lines healthy for the long term.
 approach:
-  heading: What we offer
+  heading: ''
   items:
     - image: /img/fpo_sq.png
-      text: >+
-        Reveal Health Map
+      text: >
+        Integrated Solutions for Benefit Consultants and Employers
 
-        We create an individual roadmap to support optimal health and treat
-        conditions such as anxiety, depression, cardiometabolic and autoimmune
-        conditions from an integrative perspective. Offered as Executive
-        physicals as well as group visits for employees.
-
-
-
-
-    - image: /img/fpo_sq.png
-      text: >+
-        Reveal Health Academy
-
-
-        Educational 6-8 wk programs using the latests science combined with
-        actionable tools to implement the information. We are a valuable
-        resource of information and guidance in the resolution of symptoms
-        toward prevention and care.
-
-
-
-
+        Our programs and services can be incorporated into existing resources
+        and third parties to ensure that every employer receives meaningful
+        outcomes. 
     - image: /img/fpo_sq.png
       text: >
-        Reveal Health Navigators
+        Employers
 
+        Our nationwide network of telemedicine functional medicine practitioners
+        and holistic care providers ensure that every employee has access to the
+        best resources to optimize their health. Our employee centric programs
+        promote whole person health, vitality and produce engagement
+    - image: /img/fpo_sq.png
+      text: >
+        Healthcare Systems
 
-        Consulting
-
-
-        For healthcare systems, providers and benefit consultants an
-        introduction and implementation of evidence based Integrative Health
-        Solutions
-
-
-        Professional Network
-
-
-        Have access to our network of certified practitioners to offer
-        individual as well as group sessions for your employees
+        Our portfolio of solutions and consulting services supports the
+        development and implementation of functional medicine and integrative
+        health.
 ---
 
