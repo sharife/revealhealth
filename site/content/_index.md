@@ -1,6 +1,6 @@
 ---
-title: Care at its best. The healthcare you want for your employees
-subtitle: '  We are a cutting edge functional medicine and integrative health organization that delivers evidence based holistic care solutions to employers, healthcare systems and benefit consultants'
+title: Care at its best. The healthcare you want for employees
+subtitle: '  We bring the future of functional medicine and integrative health solutions to employers today.'
 image: /img/hero-logoish.png
 intro:
   btnlink: /approach
@@ -8,10 +8,11 @@ intro:
   image: img/fpo.png
   text: >-
     We lead your employees toward optimal physical and emotional health and away
-    from disease. Using the latest in mind body science, we offer a breadth of
-    proven solutions which allow individuals to develop a personalized map
-    toward wellness. Our goal for you and your employees is greater morale, more
-    team flow and reduced healthcare costs.
+    from disease. Employees are in search of a personalized approach of health
+    that addresses the as whole people. Reveal Health offers a next generation
+    approach to corporate wellness. Our evidence based approach, which includes
+    the latest science in Functional Medicine supports healthy lifestyles that
+    keep employees and company bottom lines healthy for the long term.
 approach:
   heading: What we offer
   items:
