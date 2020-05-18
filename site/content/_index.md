@@ -9,7 +9,7 @@ intro:
   text: >-
     We lead your employees toward optimal physical and emotional health and away
     from disease. Employees are in search of a personalized approach of health
-    that addresses the as whole people. Reveal Health offers a next generation
+    that addresses them as whole people. Reveal Health offers a next generation
     approach to corporate wellness. Our evidence based approach, which includes
     the latest science in Functional Medicine, supports healthy lifestyles that
     keep employees and company bottom lines healthy for the long term.
