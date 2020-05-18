@@ -42,7 +42,7 @@ values:
     imageUrl: /img/fpo_sq.png
     text: >
       We take health education to the next level, making it actionable and east
-      to integrate into modern lifestyles. our 6-8 week programs combine the
+      to integrate into modern lifestyles. Our 6-8 week programs combine the
       latest science with actionable tools and guidance to help individuals
       better manage and resolve symptoms. Our programs include education and
       coaching components. Some of our programs include:
