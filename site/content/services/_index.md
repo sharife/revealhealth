@@ -1,62 +1,43 @@
 ---
 title: Services
-heading: Making quality care accessible
 subtitle: We offer a variety of services to empower organizations and individuals.
+heading: Making quality care accessible
 intro:
-  items:
-    - heading: Organizational Consulting
-      text: >
-        We can help your organization develop a strategic plan to support Integrative Health solutions for your worksite including:  <hr />
-        Environmental assessments  <hr />
-        High claimants with specialty drugs  <hr />
-        Payer strategies for Functional Medicine and Integrative Health  <hr />
-        Developing an outcomes-based program  <hr />
-        Developing onsite and near-site clinics
-    - heading: Educational Programs
-      text: >
-        We offer workshops for employees and managers to understand new research in medicine and nutrition:  <hr />
-        Nutrition and Functional Foods  <hr />
-        Probiotics  <hr />
-        Energy and Vitality  <hr />
-        Wellbeing and Emotional Health  <hr />
-        Stress and Resilience  <hr />
-        Genetics and Disease  <hr />
-        Food Allergies  <hr />
-        Autoimmune Disease
-    - heading: Professional Staffing Solutions
-      text: >
-        We help staff your organization’s onsite or near-site clinic with functional medicine and integrative health providers.  <hr />
-        Executive Physicals  <hr />
-        Staffing for Employee Health – Onsite via Mobile or Virtual Telehealth  <hr />
-        Physician  <hr />
-        Registered Nurse  <hr />
-        Registered Dietitian  <hr />
-        Health Coaching  <hr />
-        Physician Assistant / Nurse Practitioners  <hr />
-        Health Fairs and Screenings
+  heading: Integrated Solutions for Benefit Consultants and Employers
+  description: >-
+    Our programs and services can be incorporated into existing resources and
+    third parties to ensure that every employer receives meaningful outcomes.
 main:
+  heading: Benefits for Employers
+  description: >+
+    Our employee-centric programs promote whole-person health, vitality and
+    produce engagement
+
+
+
   image1:
-    alt: 01
+    alt: >-
+      Reduce health care costs: We utilize evidence based solutions to improve
+      physical and emotional wellbeing to prevent, manage and reverse disease
     image: /img/fpo_sq.png
   image2:
-    alt: 02
+    alt: 2
     image: /img/fpo_sq.png
   image3:
-    alt: 03
+    alt: 3
     image: /img/fpo_sq.png
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      Lorem ipsum dolor sit amet...
+    quote: Lorem ipsum dolor sit amet...
   - author: Philipp Trommler
-    quote: >-
-      Lorem ipsum dolor sit amet...
+    quote: Lorem ipsum dolor sit amet...
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
     We make it easy to make great health a part of your life. Choose one of our
-    monthly subscription plans below. Contact us about more details and payment info.
+    monthly subscription plans below. Contact us about more details and payment
+    info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -80,5 +61,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
