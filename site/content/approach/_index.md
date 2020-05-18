@@ -40,24 +40,37 @@ values:
 
   - heading: Reveal Health Academy
     imageUrl: /img/fpo_sq.png
-    text: |
-      Focused Workshops on:
+    text: >
+      We take health education to the next level, making it actionable and east
+      to integrate into modern lifestyles. our 6-8 week programs combine the
+      latest science with actionable tools and guidance to help individuals
+      better manage and resolve symptoms. Our programs include education and
+      coaching components. Some of our programs include:
+
 
       Stress and Resilience
 
+
       Genomics
+
 
       Nutrition
 
+
       Autoimmune
+
 
       Energy and Vitality
 
+
       Brain Health
+
 
       Diabetes and prediabetes
 
+
       Weight management
+
 
       Executive coaching
   - heading: Reveal Heath Navigators
@@ -68,7 +81,9 @@ values:
 
       We help healthcare systems, providers and benefit consultants understand
       and implement evidence based Functional Medicine and Integrated Health
-      Solutions.
+      Solutions. Our turnkey systems make it simple to get started.
+
+
 
 
       Professional Network
