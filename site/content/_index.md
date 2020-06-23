@@ -20,12 +20,14 @@ approach:
       text: >
         Integrated Solutions for Benefit Consultants and Employers
 
+
         Our programs and services can be incorporated into existing resources
         and third parties to ensure that every employer receives meaningful
         outcomes. 
     - image: /img/fpo_sq.png
       text: >
         Employers
+
 
         Our nationwide network of telemedicine functional medicine practitioners
         and holistic care providers ensure that every employee has access to the
@@ -34,6 +36,7 @@ approach:
     - image: /img/fpo_sq.png
       text: >
         Healthcare Systems
+
 
         Our portfolio of solutions and consulting services supports the
         development and implementation of functional medicine and integrative
